@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c82317f1e63eb643be982f561364993, type: 3}
+  m_Name: Classic
+  m_EditorClassIdentifier: 
+  name: Classic
+  sprite: {fileID: 21300000, guid: ae51722451fe7f146906771d02444b84, type: 3}
+  enginePower: 390
+  fuel: 1000
+  weight: 200
+  goodLanding: -0.5
+  perfectLanding: -0.1

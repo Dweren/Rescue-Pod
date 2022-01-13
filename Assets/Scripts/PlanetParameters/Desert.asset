@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b9522a991b97894694e2d56bcc462e7, type: 3}
+  m_Name: Desert
+  m_EditorClassIdentifier: 
+  name: Desert
+  sprite: {fileID: 21300000, guid: 2dd892f90b76e1745adc12ea58688cdd, type: 3}
+  atmosphere: 0.3
+  colorGround: {r: 0.6039216, g: 0.41176474, b: 0.3137255, a: 1}
